@@ -1,0 +1,44 @@
+mutation{
+  
+  createUser(
+    name: "Ada Wong",
+    repo: "github.com/AdaW1",
+    age: 27
+  ){
+    id,
+    name,
+    repo,
+    age
+  }
+  
+}
+
+mutation{
+  
+  createUser(
+    name: "Leon Scott",
+    repo: "github.com/LeonS1",
+    age: 22
+  ){
+    id,
+    name,
+    repo,
+    age
+  }
+  
+}
+
+mutation{
+  
+  createUser(
+    name: "Claire Redfiel",
+    repo: "github.com/ClaireR1",
+    age: 20
+  ){
+    id,
+    name,
+    repo,
+    age
+  }
+  
+}

@@ -4,11 +4,11 @@ A Simple Project to learn how Graphql works, using NodeJS's middleware "express-
 
 To learn about the technologies was used the links below:
 
+https://graphql.org/graphql-js/running-an-express-graphql-server/
+
 https://blog.rocketseat.com.br/iniciando-graphql-nodejs-expressjs/
 
 https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55
-
-https://graphql.org/graphql-js/running-an-express-graphql-server/
 
 https://medium.com/@jeffersontpadua/configurando-um-projeto-nodejs-e-es6-com-babel-7-283fc0c2b640
 
